@@ -54,6 +54,10 @@ To initialize your local repository using the PAC-man trees, use a command like 
 
     repo init -u git://github.com/PAC-man/android.git -b <branch>
 
+or using this fork, that would be:
+
+    repo init -u git://github.com/jmarcet/android.git -b <branch>
+
 Then to sync up:
 
     repo sync
